@@ -1,0 +1,9 @@
+# PyTorchのインストール
+$ pip install torch==1.12.1+cu116 torchvision==0.13.1+cu116 torchaudio==0.12.1 --extra-index-url https://download.pytorch.org/whl/cu116
+
+# CUDAのバージョン
+NVIDIA-SMI 545.29.06              Driver Version: 545.29.06    CUDA Version: 12.3 
+
+#nvidia-smi でCUDAのバージョン確認可能　（おそらく12.3で間違いない）
+
+Python: 3.8.10, CUDA Version: 12.3, torch: 2.4.1
