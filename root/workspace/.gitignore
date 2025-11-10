@@ -1,10 +1,14 @@
-*
-!.gitignore
-!**/*.py
-!**/*.ipynb
-!**/*.md
-!**/*.txt
-!**/*.json
+# *
+# !.gitignore
+# !**/*.py
+# !**/*.ipynb
+# !**/*.md
+# !**/*.txt
+# !**/*.json
 
-!/*.ipynb
-!/*.py
+# !/*.ipynb
+# !/*.py
+
+**/*.csv
+**/*.tsv
+**/*.xlsx
