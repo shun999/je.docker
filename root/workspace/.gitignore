@@ -6,4 +6,5 @@
 !**/*.txt
 !**/*.json
 
-!./*.ipynb
+!*/*.ipynb
+!*/*.py
