@@ -14,5 +14,6 @@ Test Loss: 0.5941  Test Acc: 0.7052
 embedding dim 32
 Test Loss: 0.5892  Test Acc: 0.7093
 
-
+20251111 13:05
 Test Loss: 0.5942  Test Acc: 0.7107
+
