@@ -17,3 +17,14 @@ Test Loss: 0.5892  Test Acc: 0.7093
 20251111 13:05
 Test Loss: 0.5942  Test Acc: 0.7107
 
+20251111 17:50
+Test Loss: 0.6034  Test Acc: 0.6943
+              precision    recall  f1-score   support
+
+           0     0.5190    0.2396    0.3278       455
+           1     0.7236    0.8997    0.8021      1007
+
+    accuracy                         0.6943      1462
+   macro avg     0.6213    0.5696    0.5650      1462
+weighted avg     0.6600    0.6943    0.6545      1462
+
