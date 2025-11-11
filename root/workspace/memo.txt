@@ -7,3 +7,12 @@ NVIDIA-SMI 545.29.06              Driver Version: 545.29.06    CUDA Version: 12.
 #nvidia-smi でCUDAのバージョン確認可能　（おそらく12.3で間違いない）
 
 Python: 3.8.10, CUDA Version: 12.3, torch: 2.4.1
+
+embedding dim 64
+Test Loss: 0.5941  Test Acc: 0.7052
+
+embedding dim 32
+Test Loss: 0.5892  Test Acc: 0.7093
+
+
+Test Loss: 0.5942  Test Acc: 0.7107
